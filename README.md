@@ -1,2 +1,2 @@
 # personal_practice
-Ill be practising here daily
+All code here is a journey towards prefection...lets say it like my personal arithmetic workspace
