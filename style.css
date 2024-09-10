@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    height: 100px;
+}
+.box{
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    background-color: aqua;
+    text-align: center;
+}
